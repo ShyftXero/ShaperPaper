@@ -1,5 +1,5 @@
 # ShaperPaper
-
+ ## See other work below
 
 The original idea was to photocopy 54 sheets of 8.5x11 paper with 3-4 lines of shaper tape on them. that would give me the ability to cover a 4x8 sheet. 
 
@@ -28,4 +28,11 @@ Once I get somemore time I'll make sure it really tracks. Feel free to modify an
 * Maybe do all edges to prevent Origin from ripping them. 
 
 
+### Other Work
 
+I feel a bit dumb for not googling it before I wrote this code...
+
+use these projects. 
+
+http://browncowww.pythonanywhere.com/ - easy peasy... online pdf generator
+https://github.com/brianw1/shaper_tape - python based generator
