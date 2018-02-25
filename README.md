@@ -34,5 +34,6 @@ I feel a bit dumb for not googling it before I wrote this code...
 
 use these projects. 
 
-http://browncowww.pythonanywhere.com/ - easy peasy... online pdf generator
-https://github.com/brianw1/shaper_tape - python based generator
+* http://browncowww.pythonanywhere.com/ - easy peasy... online pdf generator
+
+* https://github.com/brianw1/shaper_tape - python based generator
