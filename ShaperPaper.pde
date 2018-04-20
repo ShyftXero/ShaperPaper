@@ -22,6 +22,12 @@ void settings(){
 void draw(){
   background(255);
   
+  //adding registration marks for callibration - https://github.com/ShyftXero/ShaperPaper/issues/1
+  Marker t = new Marker(0,0);
+  for(int i = 25; i < 200; i = i + 25){
+    line(t.mm(10), t.mm(i), t.mm(50), t.mm(i));
+  }
+  
   // draw a whole page
   for( int i = 10; i < width -1 ; i += 100){ 
     for( int j = 10; j < height - 1 ; j += 175){ 
