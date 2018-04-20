@@ -24,8 +24,8 @@ void draw(){
   
   //adding registration marks for callibration - https://github.com/ShyftXero/ShaperPaper/issues/1
   Marker t = new Marker(0,0);
-  for(int i = 25; i < 200; i = i + 25){
-    line(t.mm(10), t.mm(i), t.mm(50), t.mm(i));
+  for(int i = 10; i < height; i = i + 25){
+    line(t.mm(17), t.mm(i), t.mm(20), t.mm(i));
   }
   
   // draw a whole page
